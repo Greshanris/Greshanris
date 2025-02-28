@@ -49,12 +49,13 @@ Developed a full-stack web application with **React frontend & Flask backend**, 
 ---
 
 ## 🏆 Certifications  
-- **Python & Data Science**: DataCamp’s **Introduction & Intermediate Python, Pandas, SQL**  
-- **Cybersecurity**: Cisco’s **Introduction to Cybersecurity**  
-- **Cloud Computing**: Google Cloud **Cloud Security Fundamentals, Cloud Storage**  
-- **Virtualization**: Containerization & Virtualization Concepts  
+- **Python & Data Science**: DataCamp’s **[Introduction & Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/a3953a869c3080f16e27e1cb95a54dea0fea0e97?raw=1), [Pandas](https://www.datacamp.com/statement-of-accomplishment/course/9f878ca42f6e8f40334d40166633fe7296a0da3b?raw=1), [SQL](https://www.datacamp.com/statement-of-accomplishment/course/7590c50f1c16c3420fee01ef5f237a53ca8efed7?raw=1)**  
+- **Cybersecurity**: Cisco’s **[Introduction to Cybersecurity](https://www.credly.com/badges/3708128e-b601-4885-9d26-16c92d7ceaaf/linked_in_profile)**  
+- **Cloud Computing**: Google Cloud **[Cloud Security Fundamentals](https://www.credly.com/badges/37ee6e19-e7a8-42c6-b143-356b27590944/linked_in_profile), [Cloud Storage](https://www.credly.com/badges/29005bbf-95e9-4c9c-a1c9-6f109879384d/linked_in_profile)**  
+- **Virtualization**: [Containerization & Virtualization Concepts](https://www.datacamp.com/statement-of-accomplishment/course/4a915b48b188ae6f4ad039e11bd485ac93ae2178?raw=1)
+- **Generative AI**: [Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/3afcefe2-6788-48ea-b6f8-3fe7c4b63d2c/badges/13652382?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
-📜 Full Certifications List: [Click Here](https://www.datacamp.com/portfolio/rishavchaudhary226)  
+📜 Full Data Science Related Certifications and Projects: [Click Here](https://www.datacamp.com/portfolio/rishavchaudhary226)
 
 ---
 
