@@ -12,7 +12,7 @@ I am passionate about **Web Development, Data Science, and Cybersecurity**. With
 ## 🔧 Tech Stack & Skills  
 
 ### 💻 **Programming & Web Development**  
-- **Languages**: Python, JavaScript, SQL, R  
+- **Languages**: Python, JavaScript, SQL, R, Java  
 - **Frontend**: HTML, CSS, TailwindCSS, React (MERN)  
 - **Backend**: Node.js, Express.js, Flask (beginner)  
 - **Databases**: PostgreSQL, MongoDB  
