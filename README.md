@@ -4,11 +4,15 @@
 💻 **Aspiring Web Developer | Data Enthusiast | Cybersecurity Learner**  
 📚 **BSc.IT Student at Presidential Graduate School**  
 
+---
+
+[![Greshanris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greshanris)](https://github.com/Greshanris/github-readme-stats)
+
+---
+
 ## 🚀 About Me  
 I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I love building projects that solve real-world problems. Currently, I am exploring **backend development, DevOps, and cloud computing** while working on **real-time web apps and machine learning case studies**.  
 
----
-[![Greshanris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greshanris)](https://github.com/Greshanris/github-readme-stats)
 ---
 
 ## 🔧 Tech Stack & Skills  
