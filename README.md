@@ -6,9 +6,11 @@
 
 ---
 
-[![Greshanris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greshanris)](https://github.com/Greshanris/github-readme-stats)
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Greshanris&show_icons=true&theme=radical"/>
 
----
+<img alt="My Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greshanris&langs_count=8&layout=compact&theme=radical"/>
+
+
 
 ## 🚀 About Me  
 I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I love building projects that solve real-world problems. Currently, I am exploring **backend development, DevOps, and cloud computing** while working on **real-time web apps and machine learning case studies**.  
