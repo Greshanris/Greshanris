@@ -13,7 +13,7 @@
 
 
 ## 🚀 About Me  
-I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I love building projects that solve real-world problems. Currently, I am exploring **backend development, DevOps, and cloud computing** while working on **real-time web apps and machine learning case studies**.  
+I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I love building projects that solve real-world problems. Currently, I am exploring **backend development, DevOps, and cloud computing** while working on **real-time web apps**.  
 
 ---
 
