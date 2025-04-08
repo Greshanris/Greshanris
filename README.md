@@ -13,14 +13,14 @@
 
 
 ## 🚀 About Me  
-I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I love building projects that solve real-world problems. Currently, I am exploring **backend development, DevOps, and cloud computing** while working on **real-time web apps**.  
+I am passionate about **Web Development, Data Science, and Cybersecurity**. With expertise in **Python, JavaScript, SQL, and MERN stack**, I want to build projects that solve real-world problems. Currently, I am exploring **backend development, DevOps** while working on **real-time web apps**.  
 
 ---
 
 ## 🔧 Tech Stack & Skills  
 
 ### 💻 **Programming & Web Development**  
-- **Languages**: Python, JavaScript, SQL, R, Java  
+- **Languages**: Python, JavaScript, SQL, R, Java 
 - **Frontend**: HTML, CSS, TailwindCSS, React (MERN)  
 - **Backend**: Node.js, Express.js, Flask (beginner)  
 - **Databases**: PostgreSQL, MongoDB  
