@@ -8,7 +8,7 @@
 
 <img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Greshanris&show_icons=true&theme=radical"/>
 
-<img alt="My Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greshanris&langs_count=8&layout=compact&theme=radical"/>
+<img alt="My Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greshanris&langs_count=9&layout=compact&theme=radical"/>
 
 
 
